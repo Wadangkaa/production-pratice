@@ -1,0 +1,14 @@
+{
+  "name": "production-pratice",
+  "version": "1.0.0",
+  "description": "from youtube chai or code backend vide 6",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "David Chamling Rai",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
